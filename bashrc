@@ -8,5 +8,3 @@ if [ -f ~/.localrc ]; then
   source ~/.localrc
 fi
 
-# disable mail notification
-unset MAILCHECK
