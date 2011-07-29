@@ -14,3 +14,5 @@ function railsapp {
 # misc
 alias reload='. ~/.bash_profile'
 alias publish='rake publish'
+alias bb='bbedit'
+alias ptags='php ~/bin/ptags/ptags'
